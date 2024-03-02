@@ -1,0 +1,7 @@
+Food, Burger, 5.99, 20
+Food, Pizza, 8.99, 15
+Food, Pasta, 6.99, 18
+Beverages, Coke, 1.99, 50
+Beverages, Lemonade, 2.49, 30
+Desserts, Ice Cream, 3.49, 25
+Desserts, Cake, 4.99, 20
